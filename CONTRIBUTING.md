@@ -20,7 +20,12 @@
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
 ### Instruções
-1. Faça um **Fork** deste repositório;
+1. Faça um **Fork** (Botão fork na página do projeto original.
+    Selecionando a conta para fazer o fork.
+    Copiando a URL para fazer o clone da minha cópia do projeto.
+    Clone do projeto, repare no subdiretório criado.
+    Meus servidores remotos.
+    Repositórios remotos origin e upstream.) deste repositório;
 2. Clone localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
